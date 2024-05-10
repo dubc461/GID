@@ -1,0 +1,10 @@
+name: gid
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - requests
+  - selenium=4.20.0
+  - tqdm
+  - pip:
+    - urllib3
